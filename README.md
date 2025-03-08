@@ -1,8 +1,9 @@
-# LITA-PROJECT-1
+
+## Project Title: MISOSA Sales Data Analysis
+
  This repository contains a comprehensive analysis of the sales data for a retail store- MISOSA. The aim of this project is to uncover key insights from the sales data, enabling the retail Store MISOSA to make informed business decisions and enhance overall sale performance
 
  
-## Project Title: MISOSA Sales Data Analysis
 
 ### Project Overview
 This project involves analyzing sales performance to uncover sales key insights such as top-selling products, regional performance, and monthly sales trends. The final deliverable is a Power BI dashboard that presents these insights.
